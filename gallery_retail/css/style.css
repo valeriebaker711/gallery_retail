@@ -1,0 +1,7 @@
+#fotorama{
+	height: 300px;
+	width: 200px;
+	box-shadow: gray 5px 5px 5px;
+	text-align: center;
+	margin: 0 auto;
+}
